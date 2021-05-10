@@ -1,0 +1,23 @@
+input{
+background: grey;    
+}
+.events_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.events_head i{
+    float: right;
+}
+.events_text span{
+    color: blue;
+}
+body{
+    text-align: center;
+}
+iframe{
+    width: 100%;
+}
